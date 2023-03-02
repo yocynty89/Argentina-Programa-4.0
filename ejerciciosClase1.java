@@ -60,6 +60,7 @@ public class Main {
 
         }
         System.out.println("*********************PUNTO 2***********************");
+        System.out.println("********FALTA DESARROLLAR PORQUE NO ENTENDI EL PROBLEMA**************");
         System.out.println("PUNTO D)");
         int ingTotales=500000;
         int cantVehiculos=3;
